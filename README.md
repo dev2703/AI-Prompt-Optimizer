@@ -112,24 +112,6 @@ AI-Prompt-Optimizer/
 └── docs/                 # Documentation
 ```
 
-## 🎯 Core Features
-
-### Phase 1 (MVP)
-- ✅ **Prompt Refinement Engine** - Clarity detection + step-by-step clarification
-- ✅ **Prompt Optimizer** - Token reducer, quality scorer
-- ✅ **Token Cost Calculator** - Live token counting & cost analysis
-- ✅ **User Management** - Authentication & usage tracking
-
-### Phase 2 (Advanced)
-- 🔄 **Model-Agnostic Portability** - Cross-model prompt translation
-- 🔄 **Multimodal Optimization** - Text, image, code, audio support
-- 🔄 **Chat-style UX** - Conversational optimization interface
-- 🔄 **API & Extensions** - REST API, browser extensions
-
-### Phase 3 (Enterprise)
-- 📋 **Team Collaboration** - Workspaces, shared libraries
-- 📋 **Analytics Dashboard** - ROI tracking, performance metrics
-- 📋 **BYO Model Support** - Custom model integration
 
 ## 🔧 Development
 
@@ -202,16 +184,3 @@ See `.env.example` files in both `backend/` and `frontend/` directories for requ
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🆘 Support
-
-- 📧 Email: support@aipromptoptimizer.com
-- 💬 Discord: [Join our community](https://discord.gg/aipromptoptimizer)
-- 📖 Docs: [Documentation](https://docs.aipromptoptimizer.com)
-
----
-
-Built with ❤️ by the AI Prompt Optimizer Team 
